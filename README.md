@@ -20,7 +20,7 @@ A record of everything I did on the `qa` branch of **ReadyPOS**, a multi-shop po
 
 | Issues logged | Bugs fixed | Critical / major fixed | Improvements & changes | Browser tests | Recorded journeys |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **75** | **61 of 67** | **6 / 14** | **8** | **127 in 27 files** | **2 (19 steps)** |
+| **75** | **61 ** | **6 ** | **8** | **127 in 27 files** | **2 (19 steps)** |
 
 Every issue was logged with steps to reproduce, the expected and actual result, severity, priority and how the fix was tested. The 6 bugs still open are waiting for a team decision or a test account.
 
