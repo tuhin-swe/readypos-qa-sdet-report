@@ -7,7 +7,6 @@ A record of everything I did on the `qa` branch of **ReadyPOS**, a multi-shop po
 | **Developer** | Tuhin ([@tuhin-swe](https://github.com/tuhin-swe)) |
 | **Role** | QA engineer and developer: test like a customer, find the bug, fix it, prove the fix with a test |
 | **Branch** | `qa` (all work merged and pushed) |
-| **Period** | 27 Sep 2026 – 15 Oct 2026 |
 | **Stack** | Laravel 10 · PHP 8.3 · MySQL 8 · Blade · jQuery · Bootstrap 5 · ApexCharts · Spatie Permission |
 | **Testing** | Playwright end-to-end tests in a real browser, on a throw-away copy of the database |
 
